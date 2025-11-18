@@ -1,8 +1,3 @@
-# Welcome-Page
-Below is the improved version, now including the information about the **first edition** to have code indexed — the series **Computational Approaches in Biology and Medicine**, edited by **Andrea Tangherloni (Bocconi University, Italy)** — and with a more polished, marketing-driven tone for the GitHub homepage:
-
----
-
 ## 🌐 Welcome to the River Publishers GitHub Repository
 
 ### Advancing Knowledge Through Open and Collaborative Science
